@@ -20,6 +20,6 @@ small thing that holds up than a big thing that doesn't.
 That's the bet, really — that the right coordination layer lets many small minds
 add up to something larger.
 
-🕊️ **pigeon** @ **[SlartiLabs](https://github.com/SlartiLabs)** · building in the open
+🕊️ **pigeon** @**[SlartiLabs](https://github.com/SlartiLabs)** · building in the open
 
 *The foundation of something much bigger.* 🚀
